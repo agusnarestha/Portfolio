@@ -147,3 +147,18 @@ body {
     /* bs: left top ambyar */
     box-shadow: 5px 7px 0px 1px rgb(20, 20, 20);
 }
+.custom-footer .footer .btn-ig:hover {
+    margin-top: 3px;
+    margin-bottom: -3px;
+    box-shadow: 2px 3px 0px 1px rgb(20, 20, 20);
+}
+.custom-footer .footer .btn-fb:hover {
+    margin-top: 3px;
+    margin-bottom: -3px;
+    box-shadow: 2px 3px 0px 1px rgb(20, 20, 20);
+}
+.custom-footer .footer .btn-github:hover {
+    margin-top: 3px;
+    margin-bottom: -3px;
+    box-shadow: 2px 3px 0px 1px rgb(20, 20, 20);
+}
